@@ -1729,7 +1729,7 @@ for tr_tag in tr_tags:
                         # 改行
                         newline = "\n"
                         element.send_keys('※ ')
-                        element.send_keys('表示エラー。下代に確認してください。')
+                        element.send_keys('表示エラー。担当に確認してください。')
                         element.send_keys(newline)
                         print('※※※ 表示エラー。')
 
