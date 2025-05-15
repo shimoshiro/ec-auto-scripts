@@ -7,7 +7,7 @@ ECサイト業務を効率化するためのPythonスクリプト集です。
 
 ## 📄 スクリプト一覧
 
-- [🔸 `商品タイトルの統一処理`](#-title_rewrite_rakutenpy)
+- [🔸 `モールにより違う商品タイトルの統一処理`](#-title_rewrite_rakutenpy)
 - [🔸 `未連携サイトでの販売数を管理サイトと連携して自動更新`](#-buyma_quantitypy)
 - [🔸 `未連携サイトの受注をCSVファイルで管理サイトと連携`](#-buyma_goq_intakepy)
 
@@ -17,7 +17,7 @@ ECサイト業務を効率化するためのPythonスクリプト集です。
 
 <br>
 
-### 🔸 `商品タイトルの統一処理`  
+### 🔸 `モールにより違う商品タイトルの統一処理`  
 
 📁 title_rewrite_rakuten.py
 
