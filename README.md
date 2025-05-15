@@ -17,7 +17,8 @@ ECサイト業務を効率化するためのPythonスクリプト集です。
 
 <br>
 
-### 🔸 `title_rewrite_rakuten.py`  
+### 🔸 `商品タイトル統一処理`  
+title_rewrite_rakuten.py
 楽天市場の商品タイトルを自動で変換し、一括商品管理サービスGoQ（ゴクー）と整合性を取るためのスクリプト。
 
 #### 背景
