@@ -3,7 +3,6 @@
 ECサイト業務を効率化するためのPythonスクリプト集です。  
 商品登録や在庫管理などの手作業を自動化することで、作業負担の軽減とミスの削減を目的としています。
 
-<br>
 
 ## 📄 スクリプト一覧
 
@@ -11,9 +10,9 @@ ECサイト業務を効率化するためのPythonスクリプト集です。
 - [🔸 `buyma_quantity.py`](#-buyma_quantitypy)
 - [🔸 `buyma_goq_intake.py`](#-buyma_goq_intakepy)
 
-<br><br>
-
+<br>
 ---
+<br>
 
 ### 🔸 `title_rewrite_rakuten.py`  
 楽天市場の商品タイトルを自動で変換し、一括商品管理サービスGoQ（ゴクー）と整合性を取るためのスクリプト。
