@@ -5,8 +5,7 @@ ECサイト業務を効率化するためのPythonスクリプト集です。
 
 <br><br>
 
-## スクリプト一覧
-## 📄 目次
+## 📄 スクリプト一覧
 
 - [🔸 `title_rewrite_rakuten.py`](#-title_rewrite_rakutenpy)
 - [🔸 `buyma_quantity.py`](#-buyma_quantitypy)
