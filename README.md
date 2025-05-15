@@ -176,10 +176,13 @@ BUYMAでは出荷後の発送通知やメッセージ送信を手動で行う必
 ## 使用技術
 
 - Python 3.x  
-- Selenium（ブラウザ自動操作）  
-- BeautifulSoup（HTML解析）  
-- re（正規表現）  
-- ChromeDriver（自動パス選択機能付き）  
+- Selenium（Webブラウザ自動操作）  
+- BeautifulSoup4（HTML構造解析）  
+- re（正規表現による文字列整形）  
+- Google Chrome + ChromeDriver（環境自動判定付き）
+- gspread（Google Sheets API操作／一部スクリプトで使用）
+- pandas（CSVデータの加工や変換）※必要に応じて
+
 
 <br>
 
@@ -188,5 +191,5 @@ BUYMAでは出荷後の発送通知やメッセージ送信を手動で行う必
 1. 必要なパッケージをインストール：
 
 ```bash
-pip install selenium beautifulsoup4
-```
+pip install selenium beautifulsoup4 pandas gspread oauth2client send2trash
+
