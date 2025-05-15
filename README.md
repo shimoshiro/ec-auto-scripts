@@ -6,6 +6,13 @@ ECサイト業務を効率化するためのPythonスクリプト集です。
 <br><br>
 
 ## スクリプト一覧
+## 📄 目次
+
+- [🔸 `title_rewrite_rakuten.py`](#-title_rewrite_rakutenpy)
+- [🔸 `buyma_quantity.py`](#-buyma_quantitypy)
+- [🔸 `buyma_goq_intake.py`](#-buyma_goq_intakepy)
+
+<br><br>
 
 ### 🔸 `title_rewrite_rakuten.py`  
 楽天市場の商品タイトルを自動で変換し、一括商品管理サービスGoQ（ゴクー）と整合性を取るためのスクリプト。
